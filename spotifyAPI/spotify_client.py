@@ -43,6 +43,9 @@ class SpotifyAPI(object):
         }
     
     def perform_auth(self):
+        """
+        Perform Authentication
+        """
         token_url = self.token_url
         token_data = self.get_token_data()
         token_headers = self.get_token_headers()
