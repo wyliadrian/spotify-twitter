@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "graphic-segment-355021",
-  "private_key_id": "291e1aa4fb57b00e9e81e0d691b7ea4aa44e4a25",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJ/5qHrBjw6mnh\nlBm/oWy6oot8SYDFs0T0Z/rn1DaddoXUWR1rkpCwrGbYYoCiUAZayxfXCI3PjQEs\nX5j9MWrgjo4cCADmsF/G6QjgWWTrBIWmVsDEDU8OE7jIdvQ45ngWrukNzmKCD84A\nVNF8TTyLq2/TXbCqy51k/yGI4HkxBnMwGptQ5qXdZo6e729cZdONbVCmykcF/1Yx\nQKbG05T9U2th1GeUh4p+7dlK5Trtqlw5hXOcvoAUGywJPIhkaEAXl72+sUlT4Hy3\nkYvLR51b4I8L1AHXl7iDNQ7SP72dLb0ajHVtJSgvae1CyKY8d/o3WSj/1U/2w9kh\nf7Bg8zXFAgMBAAECggEAIFUTbQf07gr3a64C+RNjjfQak4hIXly1etFx7c2f+FBS\nV4z0EpXhJwZRZ+1MXa6ldb7wT/EEkeYl++5JVK2mR89Jm98EFejBS9tdGlv0tVGB\n+wAD1t2ye7RYbW3s5XauXiMdFqKkTeEtvgvVhCnwuQJ14cUrVAtHZDUaLwiPHXN7\n+2UwgCcscS/GsOG25SFiTXBVo/aG5Vr4NT0jKwP/c1RmxTNhJ7N4oXNgkyO9+gBP\nbcPymKC6DdqZXuEhHjGVLNiCsB5wqvEpv5pkglUBDU9ynCiwe+Dyu8+ms7Xnt4l9\nxM6RX3l4i2mZ24NezKTwq3J7Pgb7KMP5uqZP6iKPuQKBgQDtRj28FEXONN4Fal9F\nOyNZFMiEV94q42bGXi9bVwhcTheCR5R7SJPgcV8LBpfamL58A0zBEJMwfEmgzV32\n2TtLsZW2Gwg8FfIdaMrZGJ0w4wZoBI4xVIfY9eZiBWgujEbvGR0hZ091r8ZmfVcN\nnTwv11c2Nme87YvD4f1VoSArGwKBgQDZ8KrYkO2m/NHyXxC7N3XvsF4MYu3+EnGT\nFu1cnQ8/urUl7XCgCBfGPeDBH+6pKPyhijxl54GWZlwUvWUJJAbAzCvrN6suGuQO\nj1ih4+BfPMHADWQPXQFcuhqh+vN9wK4Ot99Wzcg5xh1SOetdkEF4Exs23LOu3OwT\nhkfFSYBQnwKBgQDU1wFhyT2k77+JVBYJ4DahHgeQz9E23629m5cXdEbHpjVoZBVJ\nUZ10473CAjQNnp6gV8VuGhQulg7l89KqL8sE51PIew8z9uusfegYPgAjbkK84/k5\nPv5tHIeAviDqQGMQ75I1+JpKk1aBcUW5rKXktGJC+yKrUtrg58N8IIDeqQKBgQC2\nhU4vzUCbB0U0/NTgVhRZRpWdPgUfMYcYrqzfUVICB3XKa85U2DJA/nWKiBmyZfcd\nus3WckofEV6wp+VEAH3/XX6yoY6lMDQq1XZfLp8sY4/ILe7MxxFq/Rls6uSdPo8H\nGIrdAb5cVEUeJg+t7jBGRYoXKkL5gV/dAip9WY8y9QKBgQDeJO8oFfmcru3VuDZB\nv+5tSS2J5m0BSzGAkP8lQegdAT4qDgdqwIS/OBa+BSGZ8MWiO/Emq4/B2tQgdWWD\nAHmUszsFRGo5jEY6OOMIpRu6BBLg0qC6Fd/wXrHZpkb6p46h88p7ZUpPCmMQCyDP\n5CiVq3V/RJu0cg+iCmhroF8XEw==\n-----END PRIVATE KEY-----\n",
-  "client_email": "airflow-tweet@graphic-segment-355021.iam.gserviceaccount.com",
-  "client_id": "102387967339852081728",
+  "project_id": "**************",
+  "private_key_id": "**************",
+  "private_key": "**************",
+  "client_email": "**************",
+  "client_id": "**************",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-tweet%40graphic-segment-355021.iam.gserviceaccount.com"
+  "client_x509_cert_url": "**************"
 }
