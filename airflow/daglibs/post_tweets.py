@@ -33,11 +33,11 @@ def post_tweet():
 
     tweet = get_tweet()
     
-    BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAHCQeQEAAAAA57%2FctM2KjsGFqzOavr6SqrWNYhM%3DWHrR2yVs6l16P3H6zakTUxIJRKVHjOXQcuCDeECwFHqQV7L50Z"
-    CONSUMER_KEY = "9JRALgTsIbg3yPsHiWmDqmIeX"
-    CONSUMER_SECRET = "t4oMYzfyRaTETX6UlMg7dv5Zaz9mqJNJWNtgN8Nbn81LCvYmUI"
-    ACCESS_TOKEN = "1543265723732074496-t9gajwDhi9EQgyhPQ6mv80sLMT3Anq"
-    ACCESS_TOKEN_SECRET = "khhw3Kx5UjBNGPBWnelHE6lEC5mKlwbiw1qrKb8roJPaU"
+    BEARER_TOKEN = "******"
+    CONSUMER_KEY = "******"
+    CONSUMER_SECRET = "******"
+    ACCESS_TOKEN = "******"
+    ACCESS_TOKEN_SECRET = "******"
     
     api = tweepy.Client(bearer_token=BEARER_TOKEN, 
                     access_token=ACCESS_TOKEN,
